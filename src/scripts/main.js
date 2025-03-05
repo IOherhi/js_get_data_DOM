@@ -15,6 +15,6 @@ let formattedTotal = total.toLocaleString();
 let formattedAverage = average.toLocaleString();
 
 
-ducument.querySelector('.total-population').textContent = formattedTotal;
-ducument.querySelector('.average-population').textContent = formattedAverage;
+document.querySelector('.total-population').textContent = formattedTotal;
+document.querySelector('.average-population').textContent = formattedAverage;
 
